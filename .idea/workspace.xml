@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="987f4794-d4bf-4840-8621-de578c4b106e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Deployment/deploy.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deployment/inventory" afterDir="false" />
+    <list default="true" id="987f4794-d4bf-4840-8621-de578c4b106e" name="Changes" comment="added ansible playbook">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,5 +73,9 @@
       <updated>1698055604169</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added ansible playbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ansible playbook" />
   </component>
 </project>
